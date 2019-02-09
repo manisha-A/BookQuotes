@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorRed">#E25F70</color>
+    <color name="colorWhite">#f8f8f8</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorGrain">#D7CEC7</color>
+    <color name="colorBlackBoard">#565656</color>
+    <color name="colorOxblood">#76323F</color>
+    <color name="warmYellow">#EAC67A</color>
+    <color name="rustyRed">#984B43</color>
+    <color name="gunMetal">#233237</color>
+    <color name="navyBlue">#18121E</color>
+</resources>

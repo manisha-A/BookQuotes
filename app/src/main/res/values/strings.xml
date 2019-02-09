@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Book Quotes</string>
+    <string name="description">\t This is my internet address \n\t Phone number : +44xxxxxxxxxx \n\t Business Hours : 9AM - 5PM</string>
+    <string name="app_title">Book Quotes</string>
+</resources>
